@@ -1,3 +1,7 @@
-# My Awesome Book
+# What's x2ts ?
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+> e`x`tra `t`iny `s`keleton the `2`nd Edition
+
+## What IS x2ts ?
+
+支持MVC的超简单PHP框架
